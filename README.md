@@ -21,5 +21,5 @@
 <h1>Скопируйте последние цыфры.</h1>
 <img src="https://github.com/Nironic/auto_mark/blob/master/image2.png?raw=true" alt="">
 
-
-</p>Nironic_CORP</p>
+Python 3.8.1 работает стабильно
+<p>Nironic_CORP</p>
